@@ -251,3 +251,7 @@ form button:hover {
 footer {
   background-color: #70706e;
 }
+
+footer #avaliacao {
+  color: red;
+}
